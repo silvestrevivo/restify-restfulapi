@@ -1,0 +1,16 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.printWidth": 120,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#ffc32c",
+    "titleBar.inactiveBackground": "#724c14",
+    "titleBar.activeForeground": "#280c3a",
+    "titleBar.inactiveForeground": "#ffffff"
+  }
+}
