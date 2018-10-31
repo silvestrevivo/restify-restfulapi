@@ -1,0 +1,33 @@
+{
+  "name": "restify-restfulapi",
+  "version": "1.0.0",
+  "description": "RestfulAPI developed with Restify regarding the Youtube tutorial from @bradtraversy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvestrevivo/restify-restfulapi.git"
+  },
+  "keywords": [
+    "restify",
+    "nodejs",
+    "restfulapi",
+    "authentication",
+    "authorization"
+  ],
+  "author": "@silvestrevivo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvestrevivo/restify-restfulapi/issues"
+  },
+  "homepage": "https://github.com/silvestrevivo/restify-restfulapi#readme",
+  "dependencies": {
+    "mongoose": "^5.3.8",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^7.2.2",
+    "restify-errors": "^6.1.1"
+  }
+}
